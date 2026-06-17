@@ -2,13 +2,12 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3500&pause=900&color=6C63FF&center=true&vCenter=true&width=850&lines=Ph.D.+Student+in+Computer+Science;Xi'an+Jiaotong+University;Former+Exchange+Student+at+Politecnico+di+Milano;Learning%2C+thinking%2C+and+sharing+interesting+things" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3500&pause=900&color=6C63FF&center=true&vCenter=true&width=850&lines=Ph.D.+Student+in+Computer+Science;Xi'an+Jiaotong+University;Learning%2C+thinking%2C+and+sharing+interesting+things" alt="Typing SVG" />
 
 <br/>
 
 <img src="https://img.shields.io/badge/Ph.D.%20Student-Computer%20Science-6C63FF?style=for-the-badge&logo=academia&logoColor=white" />
 <img src="https://img.shields.io/badge/XJTU-Xi'an%20Jiaotong%20University-B37C57?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Exchange-Politecnico%20di%20Milano-DDA15E?style=for-the-badge" />
 
 </div>
 
@@ -18,7 +17,7 @@
 <tr>
 <td width="62%" valign="top">
 
-### Hi, I'm He Zheng 👋
+### Hi, I'm Dalin Zheng 👋
 
 I am currently a first-year Ph.D. student in **Computer Science** at **Xi'an Jiaotong University**.
 
